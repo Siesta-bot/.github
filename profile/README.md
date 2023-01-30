@@ -5,7 +5,7 @@
 
 [![Discord Bots](https://top.gg/api/widget/966064596328792084.svg)](https://top.gg/bot/966064596328792084)
 
-*Siesta* é um bot para o *Discord* criado inteiramente em **TypeScript** através do *Node.Js*. Siesta veio para **trazer mais facilidade e diversão ao realizar comandos nos servidores do Discord**, com vários comandos úteis onde é possível realizar desde de tarefas de **moderação até mini-games** como o werewolf.
+*Siesta* é um bot para o *Discord* criado inteiramente em **TypeScript** através do *Node.Js*. Siesta veio para **trazer mais facilidade e diversão ao realizar comandos nos servidores do Discord**, com vários comandos úteis onde é possível realizar desde tarefas de **moderação até mini-games** como o werewolf.
 
 ##  🔗 Como adicionar a Siesta no Servidor do Discord?
 
