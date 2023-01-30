@@ -57,7 +57,7 @@ Para adicionar ela no seu server basta **[clicar aqui](https://discord.com/api/o
 
 <tr>
                 <td>/unban</td>
-                <td>- Desbanir um usuário do servidor.</td>
+                <td> Desbanir um usuário do servidor.</td>
               </tr>
 <tr>
                 <td>/steal</td>
@@ -92,6 +92,15 @@ Para adicionar ela no seu server basta **[clicar aqui](https://discord.com/api/o
               <tr>
                 <td>/giveaway</td>
                 <td> Sistema de sorteio.</td>
+              </tr>
+              </tr>
+              <tr>
+                <td>/reminder</td>
+                <td> Sistema de lembrete.</td>
+              </tr>
+               <tr>
+                <td>/punishments</td>
+                <td> Canal de punições.</td>
               </tr>
             </tbody>
           </table>
