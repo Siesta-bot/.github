@@ -13,7 +13,7 @@ Antes de adicionar a Siesta em seu server, saiba que ela está em **desenvolvime
 
 Para adicionar ela no seu server basta **[clicar aqui](https://discord.com/api/oauth2/authorize?client_id=966064596328792084&permissions=1532498934903&scope=applications.commands%20bot)**. Caso **precise de suporte, queira dar uma sugestão, informar um bug ou apenas entrar em mais um server para conversar**, temos um server para Siesta chamado **[Siesta - Community](https://discord.gg/ku84Gmt6hZ)** que lhe trará isso e muito mais possibilidades!!
 
-## 🚀 Alguns comandos da Siesta:
+## 🌟 Alguns comandos da Siesta:
   <section class="list-commands" id="commands">
         <div class="cmd-info">
         </div>
@@ -101,6 +101,10 @@ Para adicionar ela no seu server basta **[clicar aqui](https://discord.com/api/o
                <tr>
                 <td>/punishments</td>
                 <td> Canal de punições.</td>
+              </tr>
+              <tr>
+                <td>/help</td>
+                <td> Mostra todos os comandos da Siesta.</td>
               </tr>
             </tbody>
           </table>
