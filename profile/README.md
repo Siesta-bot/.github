@@ -7,7 +7,7 @@
 
 *Siesta* é um bot para o *Discord* criado inteiramente em **TypeScript** através do *Node.Js*. Siesta veio para **trazer mais facilidade e diversão ao realizar comandos nos servidores do Discord**, com vários comandos úteis onde é possível realizar desde de tarefas de **moderação até mini-games** como o werewolf.
 
-##  🔗 Como adicionar a Siesta no Discord?
+##  🔗 Como adicionar a Siesta no Servidor do Discord?
 
 Antes de adicionar a Siesta em seu server, saiba que ela está em **desenvolvimento** constante, então ela **não está completa e além disso erros podem ocorrer**, mas é claro que eu sempre vou tentar deixar a Siesta funcionando para você.
 
