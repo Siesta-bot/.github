@@ -28,31 +28,31 @@ Para adicionar ela no seu server basta **[clicar aqui](https://discord.com/api/o
             <tbody>
               <tr>
                 <td>/werewolf</td>
-                <td>- Cria uma partida de werewolf no servidor.</td>
+                <td> Cria uma partida de werewolf no servidor.</td>
               </tr>
               <tr>
                 <td>/ticket </td>
-                <td>- Sistema avançado de ticket. </td>
+                <td> Sistema avançado de ticket. </td>
               </tr>
               <tr>
                 <td>/suggestion</td>
-                <td>- Sistema de sugestão para servidores. </td>
+                <td> Sistema de sugestão para servidores. </td>
               </tr>
               <tr>
                 <td>/kick</td>
-                <td>- Expulsar um usuário do seu servidor.</td>
+                <td> Expulsar um usuário do seu servidor.</td>
               </tr>
               <tr>
                 <td>/lock</td>
-                <td>- Trancar um canal.</td>
+                <td> Trancar um canal.</td>
               </tr>
               <tr>
                 <td>/unlock</td>
-                <td>- Destrancar um canal.</td>
+                <td> Destrancar um canal.</td>
               </tr>
 <tr>
                 <td>/ban</td>
-                <td>- Banir um usuário do servidor.</td>
+                <td> Banir um usuário do servidor.</td>
               </tr>
 
 <tr>
@@ -61,23 +61,37 @@ Para adicionar ela no seu server basta **[clicar aqui](https://discord.com/api/o
               </tr>
 <tr>
                 <td>/steal</td>
-                <td>- Roubar Sapphires de outros usuários.</td>
+                <td> Roubar Sapphires de outros usuários.</td>
               </tr>
 <tr>
                 <td>/rinha</td>
-                <td>- Inicia uma rinha.</td>
+                <td> Inicia uma rinha.</td>
               </tr>
 <tr>
                 <td>/work</td>
-                <td>- Sistema de trabalho.</td>
+                <td> Sistema de trabalho.</td>
               </tr>
 <tr>
                 <td>/rifa</td>
-                <td>- Sistema de rifa.</td>
+                <td> Sistema de rifa.</td>
               </tr>
 <tr>
                 <td>/pet</td>
-                <td>- Para adotar e cuidar de um pet.</td>
+                <td> Para adotar e cuidar de um pet.</td>
+              </tr>
+              <tr>
+                <td>/mine</td>
+                <td> Sistema de mineração.</td>
+              </tr>
+            </tr>
+              <tr>
+                <td>/user avatars</td>
+                <td> Veja seus avatares antigos ou de outros usuários.</td>
+              </tr>
+            </tr>
+              <tr>
+                <td>/giveaway</td>
+                <td> Sistema de sorteio.</td>
               </tr>
             </tbody>
           </table>
