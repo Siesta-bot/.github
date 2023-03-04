@@ -61,7 +61,7 @@ Para adicionar ela no seu server basta **[clicar aqui](https://discord.com/api/o
               </tr>
 <tr>
                 <td>/steal</td>
-                <td> Roubar Sapphires de outros usuários.</td>
+                <td> Roubar Estrelas de outros usuários.</td>
               </tr>
 <tr>
                 <td>/rinha</td>
@@ -78,6 +78,10 @@ Para adicionar ela no seu server basta **[clicar aqui](https://discord.com/api/o
 <tr>
                 <td>/pet</td>
                 <td> Para adotar e cuidar de um pet.</td>
+              </tr>
+              <tr>
+                <td>/quiz</td>
+                <td> Quiz de animes e personagens.</td>
               </tr>
               <tr>
                 <td>/mine</td>
